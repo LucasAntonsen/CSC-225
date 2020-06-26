@@ -2,7 +2,7 @@
 # Algorithms and Data Structures I
 Assignments from Computer Science 225 at the University of Victoria (Sept - Dec 2019) completed by Lucas Antonsen.
 
-The course covered the following topics:  
+This course covered the following topics:  
 
 Algorithm Design and Analysis  
 * Algorithm design techniques  
